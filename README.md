@@ -4,8 +4,8 @@
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/ShiziTech1/go-take-home.git
-   cd go-take-home
+   git clone https://github.com/nosnatef/go.git
+   cd go
    ```
 2. Install dependencies:
    ```sh
